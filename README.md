@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alana Dias.
 ### 👀 I’m interested in acquire knowledges.
-###🌱 I’m currently learning HTML5, CSS3 and JavaScript.
+### 🌱 I’m currently learning HTML5, CSS3 and JavaScript.
 ### 📫 How to reach me https://linktr.ee/DiasAlana
 
 <!---
