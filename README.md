@@ -13,7 +13,7 @@
    <img align="center" alt="Alana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Alana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Alana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Rafa-yoda" src="https://www.canva.com/design/DAEl4zg9wZc/k2PCHdU6P9lDzYttnr0obA/watch?utm_content=DAEl4zg9wZc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+   <img align="right" alt="Alana-Dias" src="https://drive.google.com/file/d/1QBNIdBNZLrskOgAe-YlunApW4VCYp1sd/view?usp=sharing">
 </div>
  
  ##
