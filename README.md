@@ -1,10 +1,13 @@
-#   👋Olá! Eu sou a Alana Dias.
+# 👋Olá! Eu sou a Alana Dias. <img align="left" alt="Alana-Dias"  height="200" width="200" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
+
 #### 👩🏽‍🎓 Graduanda em Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (4° semestre).
 #### 💻 Aspirante a desenvolvedora Web Full Stack.
 #### 📚 Estudando  HTML5 | CSS3 | JavaScript.
 
+##
+
  <div>
-  <a href="https://linktr.ee/DiasAlana">
+  <a href="beacons.page/alanadias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanadias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanadias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -13,7 +16,6 @@
    <img align="center" alt="Alana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Alana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Alana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="Alana-Dias" src="https://drive.google.com/file/d/1QBNIdBNZLrskOgAe-YlunApW4VCYp1sd/view?usp=sharing">
 </div>
  
  ##
