@@ -1,9 +1,9 @@
-# 👋Olá! Eu sou a Alana Dias. <img align="left" alt="Alana-Dias"  height="200" width="200" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
+# 👋Olá! Eu sou a Alana Dias. <img align="left" alt="Alana-Dias"  height="220" width="200" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
 
 #### 👩🏽‍🎓 Graduanda em Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (4° semestre).
 #### 💻 Aspirante a desenvolvedora Web Full Stack.
 #### 📚 Estudando  HTML5 | CSS3 | JavaScript.     
-<div align="center"> 
+<div> 
     <a href="https://www.youtube.com/channel/UCZiY0O7qWZ0OUXUXgZma5LA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/ads.pict/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/AlanaDi91420009" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
