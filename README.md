@@ -29,7 +29,7 @@
  
 
 
-  ![Snake animation](https://github.com/alanadias/alanadiastech/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/alanadiastech/alanadias/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
 
