@@ -1,4 +1,4 @@
-# 👋🏼Olá! Eu sou a Alana Dias. <img align="left" alt="Alana-Dias"  height="220" width="200" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
+# 👋🏼Olá! Eu sou a Alana Dias. <img align="left" alt="Alana-Dias"  height="200" width="200" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
 
 #### 🎓 Graduanda em Análise e Desenvolvimento de Sistemas na Unopar | Estudante de Desenvolvimento Web Full Stack na SoulCode Academy.
     
