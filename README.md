@@ -2,7 +2,7 @@
 
 #### 🎓 Graduanda em Análise e Desenvolvimento de Sistemas na Unopar | Estudante de Desenvolvimento Web Full Stack na SoulCode Academy.
     
-<div> 
+<div align="center"> 
     <a href="https://www.youtube.com/channel/UCZiY0O7qWZ0OUXUXgZma5LA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
     <a href="https://www.instagram.com/alanadiastech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://twitter.com/alanadiastech" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
@@ -12,17 +12,17 @@
 
 ##
 
- <div>
+ <div align="center">
       <a href="beacons.page/alanadiastech">
-      <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=alanadiastech&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-      <img align="right" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanadiastech&layout=compact&langs_count=7&theme=synthwave "/>
+      <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=alanadiastech&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<!--       <img align="right" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanadiastech&layout=compact&langs_count=7&theme=synthwave "/> -->
 </div>
     
    ##
     
    ## Estudando:
  
- <div style="display: inline_block"><br>
+ <div style="display: inline_block " ><br>
     <img align="center" alt="Alana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img  align="center" alt="Alana-HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img  align="center" alt="Alana-CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
