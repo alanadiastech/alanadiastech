@@ -1,6 +1,6 @@
 # 👋Olá! Eu sou a Alana Dias. <img align="left" alt="Alana-Dias"  height="150" width="150" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
 
-#### 🎓 Graduada em Análise e Desenvolvimento de Sistemas na Unopar | Estudante de Desenvolvimento Web Full Stack na SoulCode Academy.
+#### 🎓 Graduada em Análise e Desenvolvimento de Sistemas | Desenvolvedora Web Full Stack.
     
 <div align="center"> 
     <a href="https://www.youtube.com/channel/UCZiY0O7qWZ0OUXUXgZma5LA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
