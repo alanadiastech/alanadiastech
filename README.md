@@ -33,7 +33,7 @@
     <img  align="center" alt="Alana-TYPESCRIPT" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img  align="center" alt="Alana-TYPESCRIPT" height="40" width="40"  align="center" alt="Alana-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img  align="center" alt="Alana-MONGODB" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img align="center" alt="Alana-GITHUB" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+    <img align="center" alt="Alana-GITHUB" height="40" width="40"  src="https://cdn.icon-icons.com/icons2/1488/PNG/128/5347-github_102542.png" />
     <img  align="center" alt="Alana-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img  align="center" alt="Alana-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     <img align="center" alt="Alana-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
