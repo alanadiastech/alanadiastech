@@ -1,6 +1,9 @@
-# 👋Olá! Eu sou a Alana Dias. <img align="left" alt="Alana-Dias"  height="150" width="150" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
+## 👋 Olá! Eu sou a Alana Dias. <img align="left" alt="Alana-Dias"  height="150" width="150" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
 
-#### 🎓 Graduada em Análise e Desenvolvimento de Sistemas | Desenvolvedora Web Full Stack.
+#### 🎓 Graduada em Análise e Desenvolvimento de Sistemas | Desenvolvedora Web Full Stack
+#### 🖥️ Atuando como Pessoa Desenvolvedora Back End Java
+
+##
     
 <div align="center"> 
     <a href="https://www.youtube.com/channel/UCZiY0O7qWZ0OUXUXgZma5LA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -9,18 +12,10 @@
    <a href = "mailto:ads.pict@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/alanadiastech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  </div>
-
-##
-
- <div align="center">
-      <a href="beacons.page/alanadiastech">
-      <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=alanadiastech&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<!--       <img align="right" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanadiastech&layout=compact&langs_count=7&theme=synthwave "/> -->
-</div>
+ 
+ ##
     
-   ##
-    
-   ## Estudando:
+   ## Linguagens e Tecnologias:
  
  <div style="display: inline_block " ><br>
     <img align="center" alt="Alana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,10 +34,6 @@
     <img align="center" alt="Alana-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
       <img align="center" alt="Alana-VSCODE" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
 </div>
-
-##
- 
-  ![Snake animation](https://github.com/alanadiastech/alanadias/blob/output/github-contribution-grid-snake.svg) 
  
 </div>
 
