@@ -14,6 +14,16 @@
  </div>
  
  ##
+ ###  Quer visualizar meus projetos?
+ 
+* <a href="https://github.com/Soul-Code-Academy">Projetos Desenvolvidos no Bootcamp SoulCode Academy</a>
+
+* <a href="https://github.com/Cursos-Livres">Projetos Desenvolvidos em Cursos Livres</a>
+
+* <a href="https://github.com/Projetos-Fixacao">Projetos para Fixação</a>
+
+* <a href="https://github.com/alanadiastech/alana-dias-theme">Meu Tema para o Vs Code</a>
+ ##
     
    ## Linguagens e Tecnologias:
  
