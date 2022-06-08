@@ -1,7 +1,11 @@
-## 👋 Olá! Eu sou a Alana Dias. <img align="left" alt="Alana-Dias"  height="150" width="150" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
+<div align="center">
+
+## 👋 Olá! Eu sou a Alana Dias.
 
 #### 🎓 Graduada em Análise e Desenvolvimento de Sistemas | Desenvolvedora Web Full Stack
 #### 🖥️ Atuando como Pessoa Desenvolvedora Back End Java
+
+</div>
 
 ##
     
@@ -14,8 +18,10 @@
  </div>
  
  ##
- ###  Quer visualizar meus projetos?
- 
+  <img align="right" alt="Alana-Dias"  height="200" width="200" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
+  
+ ### Quer visualizar meus projetos? 
+  
 * <a href="https://github.com/Soul-Code-Academy">Projetos Desenvolvidos no Bootcamp SoulCode Academy</a>
 
 * <a href="https://github.com/Cursos-Livres">Projetos Desenvolvidos em Cursos Livres</a>
