@@ -31,7 +31,7 @@
 * <a href="https://github.com/alanadiastech/alana-dias-theme">Meu Tema para o Vs Code</a>
  ##
     
-   ## Linguagens e Tecnologias:
+   ## Linguagens, Tecnologias e Ferramentas:
  
  <div style="display: inline_block " ><br>
     <img align="center" alt="Alana-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
