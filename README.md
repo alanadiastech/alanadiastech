@@ -49,6 +49,7 @@
     <img  align="center" alt="Alana-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     <img align="center" alt="Alana-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
       <img align="center" alt="Alana-VSCODE" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
+      <img align="center" alt="Alana-VSCODE" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" />
 </div>
  
 </div>
