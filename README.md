@@ -20,15 +20,6 @@
  ##
   <img align="right" alt="Alana-Dias"  height="200" width="200" src="https://imagizer.imageshack.com/img923/5049/jiLWdU.gif">
   
- ### Quer visualizar meus projetos? 
-  
-* <a href="https://github.com/Soul-Code-Academy">Projetos Desenvolvidos no Bootcamp SoulCode Academy</a>
-
-* <a href="https://github.com/Cursos-Livres">Projetos Desenvolvidos em Cursos Livres</a>
-
-* <a href="https://github.com/Projetos-Fixacao">Projetos para Fixação</a>
-
-* <a href="https://github.com/alanadiastech/alana-dias-theme">Meu Tema para o Vs Code</a>
  ##
     
    ## Linguagens, Tecnologias e Ferramentas:
